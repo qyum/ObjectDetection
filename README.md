@@ -1,6 +1,7 @@
 ## Installation
 
 ```
+Install  Python >= 3.7.9
 git clone https://github.com/qyum/ObjectDetection.git # clone recursively
 cd yolov8_tracking
 pip install -r requirements.txt  # install dependencies
