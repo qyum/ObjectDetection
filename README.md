@@ -1,3 +1,5 @@
+You just need to following up the step to run command.
+
 ## Installation
 
 ```
@@ -8,6 +10,8 @@ pip install -r requirements.txt  # install dependencies
 ```
 
 ## Tracking
+
+Run the command to see the object detection in real time
 
 <details>
 <summary>Methods 1</summary>  
