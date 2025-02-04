@@ -11,10 +11,10 @@ pip install -r requirements.txt  # install dependencies
 
 ## Tracking
 
-Run the command to see the object detection in real time
+Run the command to see the Multi object detection in real time
 
 <details>
-<summary>Methods 1</summary>  
+Methods 1
 
 ```bash
 $ python track.py --yolo-weights yolov8n.pt     # bboxes only
@@ -25,7 +25,7 @@ $ python track.py --yolo-weights yolov8n.pt     # bboxes only
 <summary>Methods 2</summary>
 
 ```bash
-$ python track.py --tracking-method botsort
+$ python track.py --tracking-method botsort     
                                     deepocsort
                                     strongsort
                                     ocsort
@@ -35,7 +35,6 @@ $ python track.py --tracking-method botsort
 
 </details>
 
-<details>
 <summary>Method 3</summary>
 
 
