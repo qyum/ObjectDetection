@@ -1,4 +1,4 @@
-You just need to following up the step to run command.
+You just need to following up the step to execute the command
 
 ## Installation
 
