@@ -15,7 +15,7 @@ $ python track.py --yolo-weights yolov8n.pt     # bboxes only
 ```
 
 <details>
-<summary>Tracking methods</summary>
+<summary>Methods 2</summary>
 
 ```bash
 $ python track.py --tracking-method botsort
@@ -29,9 +29,9 @@ $ python track.py --tracking-method botsort
 </details>
 
 <details>
-<summary>Tracking sources</summary>
+<summary>Method 3</summary>
 
-Tracking can be run on most video formats
+
 
 ```bash
 $ python track.py --source 0                               # webcam
