@@ -13,16 +13,15 @@ pip install -r requirements.txt  # install dependencies
 
 Run the command to see the Multi object detection in real time
 
-<details>
-Methods 1
+
+Methods 1:
 
 ```bash
 $ python track.py --yolo-weights yolov8n.pt     # bboxes only
                                  yolov8n-seg.pt  # bboxes + segmentation masks
 ```
 
-<details>
-<summary>Methods 2</summary>
+Methods 2:
 
 ```bash
 $ python track.py --tracking-method botsort     
@@ -33,10 +32,9 @@ $ python track.py --tracking-method botsort
                                     
 ```
 
-</details>
 
-<summary>Method 3</summary>
 
+Method 3:
 
 
 ```bash
