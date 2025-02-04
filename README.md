@@ -17,8 +17,8 @@ Run the command to see the Multi object detection in real time
 Methods 1:
 
 ```bash
-$ python track.py --yolo-weights yolov8n.pt     # bboxes only
-                                 yolov8n-seg.pt  # bboxes + segmentation masks
+$ python track.py --yolo-weights yolov8n.pt     # bboxes only   (webcam)
+                                 yolov8n-seg.pt  # bboxes + segmentation masks (webcam)
 ```
 
 Methods 2:
@@ -42,7 +42,6 @@ $ python track.py --source 0                               # webcam
                            img.jpg                         # image
                            vid.mp4                         # video
                            path/                           # directory
-                           path/*.jpg                      # glob
                            'https://youtu.be/Zgi9g1ksQHc'  # YouTube
                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
