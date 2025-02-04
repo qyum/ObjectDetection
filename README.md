@@ -8,7 +8,8 @@ pip install -r requirements.txt  # install dependencies
 ```
 
 ## Tracking
-
+<details>
+<summary>Methods 1</summary>
 ```bash
 $ python track.py --yolo-weights yolov8n.pt     # bboxes only
                                  yolov8n-seg.pt  # bboxes + segmentation masks
