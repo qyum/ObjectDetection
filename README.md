@@ -17,14 +17,14 @@ Run the command to see the Multi object detection in real time
 Methods 1:
 
 ```bash
-$ python track.py --yolo-weights yolov8n.pt     # bboxes only   (webcam)
+$ python main.py --yolo-weights yolov8n.pt     # bboxes only   (webcam)
                                  yolov8n-seg.pt  # bboxes + segmentation masks (webcam)
 ```
 
 Methods 2:
 
 ```bash
-$ python track.py --tracking-method botsort     
+$ python main.py --tracking-method botsort     
                                     deepocsort
                                     strongsort
                                     ocsort
@@ -38,7 +38,7 @@ Method 3:
 
 
 ```bash
-$ python track.py --source 0                               # webcam
+$ python main.py --source 0                               # webcam
                            img.jpg                         # image
                            vid.mp4                         # video
                            path/                           # directory
