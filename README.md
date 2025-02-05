@@ -42,6 +42,6 @@ $ python main.py --source 0                               # webcam
                            img.jpg                         # image
                            vid.mp4                         # video
                            path/                           # directory
-                           'https://youtu.be/Zgi9g1ksQHc'  # YouTube
+                           'https://youtube/xyz'  # YouTube
                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
