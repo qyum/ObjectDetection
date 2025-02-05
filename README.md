@@ -9,7 +9,7 @@ cd yolov8_tracking
 pip install -r requirements.txt  # install dependencies
 ```
 
-## Tracking
+## Detection
 
 Run the command to see the Multi object detection in real time
 
