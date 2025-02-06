@@ -6,7 +6,7 @@ You just need to following up the step to execute the command
 Install  Python >= 3.7.9
 git clone https://github.com/qyum/ObjectDetection.git # clone recursively
 cd MultiObjectDetection
-pip install -r requirements.txt  # install dependencies
+pip install -r requirements.txt  # install dependencies 
 ```
 
 ## Detection
