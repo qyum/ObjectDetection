@@ -16,13 +16,13 @@ import torch
 import torch.backends.cudnn as cudnn
 
 FILE = Path(__file__).resolve()
-ROOT = FILE.parents[0]  # yolov5 strongsort root directory
+ROOT = FILE.parents[0]  # yolo strongsort root directory
 WEIGHTS = ROOT / 'weights'
 
 if str(ROOT) not in sys.path:
     sys.path.append(str(ROOT))  # add ROOT to PATH
 if str(ROOT / 'yolov8') not in sys.path:
-    sys.path.append(str(ROOT / 'yolov8'))  # add yolov5 ROOT to PATH
+    sys.path.append(str(ROOT / 'yolov8'))  # add yolo ROOT to PATH
 if str(ROOT / 'trackers' / 'strongsort') not in sys.path:
     sys.path.append(str(ROOT / 'trackers' / 'strongsort'))  # add strong_sort ROOT to PATH
 
