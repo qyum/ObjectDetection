@@ -52,7 +52,7 @@ python main.py --source    0                               # webcam
                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
 
-##  Detection on Yolov11 
+## Detection on Yolov11 
 # dependencies
 
 ```bash
@@ -61,7 +61,7 @@ Install  Python >= 3.8.0
 
 ``` 
 
-# run command to get detection using custom trained checkpoint of yolov11
+#Run the following command to get detection using custom trained checkpoint of yolov11
 ```bash
 
 python sample.py   #custom video
