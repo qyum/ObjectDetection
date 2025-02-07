@@ -52,7 +52,8 @@ python main.py --source    0                               # webcam
                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
 
-### Detection on Yolo11 
+##  Detection on Yolo11 
+#Dependies
 ```bash
 Install  Python >= 3.8.0
 

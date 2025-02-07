@@ -1,6 +1,7 @@
 # Ignore environment files
 myenv
 .myenv
+.env
 
 
 # Ignore Python bytecode files
