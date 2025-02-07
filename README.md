@@ -57,6 +57,7 @@ python main.py --source    0                               # webcam
 
 ```bash
 Install  Python >= 3.8.0
+Then follow installation step
 
 
 ``` 
