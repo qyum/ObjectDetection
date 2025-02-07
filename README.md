@@ -69,10 +69,9 @@ python sample.py   #custom video
 
 ```
 ## sample video
- ```bash
+ 
 
 [Watch the video](https://drive.google.com/file/d/1L_zt4amJM5Bd8a4Lm05DYxO8ObzVtppp/view?usp=sharing)
 [Watch the video](https://drive.google.com/file/d/1tcVEL6ysjf6xYE7yYcZZzg0K1o53HEdK/view?usp=sharing)
 
 
-```
