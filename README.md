@@ -5,6 +5,8 @@ You just need to following up the step to execute the command
 ```
 Install  Python == 3.7.9
 git clone https://github.com/qyum/ObjectDetection.git # clone recursively
+cd ObjectDetection 
+git checkout dev   # go to 'dev' branch
 
 #Create a virtual environment & activate it in python.
 
